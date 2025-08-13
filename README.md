@@ -1,5 +1,5 @@
 <h3>Hi, I'm Ali (Skeps)</h3>
-<h4>A Software Engineering student at Manchester Metropolitan University.</h4>
+<h4>A Software Engineering student at Manchester Metropolitan University (3rd & last year).</h4>
 <p>📍 Manchester, United Kingdom</p>
 <a href="https://linktree.ee/aliskeps">Linktree</a>
 
