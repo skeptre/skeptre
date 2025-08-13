@@ -1,8 +1,7 @@
-<h1>Hi, I'm Ali (Skeps)</h1>
-<br>
-<h1>A Software Engineering student at Manchester Metropolitan University.</h1>
-
-
+<h3>Hi, I'm Ali (Skeps)</h3>
+<h4>A Software Engineering student at Manchester Metropolitan University.</h4>
+<p>📍 Manchester, United Kingdom</p>
+<a href="https://linktree.ee/aliskeps">Linktree</a>
 
 <!--Here are some ideas to get you started:
 
