@@ -1,5 +1,6 @@
-<h2>Hi, I'm Ali (Skeps)</h2>
-<h2>A Software Engineering student at Manchester Metropolitan University.</h2>
+<h1>Hi, I'm Ali (Skeps)</h1>
+<br>
+<h1>A Software Engineering student at Manchester Metropolitan University.</h1>
 
 
 
