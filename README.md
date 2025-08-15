@@ -2,13 +2,9 @@ Hi, I'm Ali (Skeps) 👋
 
 I'm a Software Engineer passionate about building efficient, scalable systems. My focus is on full-stack development, automation, and integrating AI to solve real-world problems.
 
-📍 Based in Manchester, United Kingdom
-
-🔭 I’m currently building a Full-Stack Activity Tracker App with React Native and Node.js.
+📍 Based in/near Manchester, United Kingdom
 
 🌱 I’m currently learning Next.js, AI Integration, and Automation Workflows.
-
-💬 Ask me about anything related to JavaScript, React, or system automation.
 
 📫 How to reach me: aliskeps@outlook.com
 
