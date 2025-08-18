@@ -12,7 +12,7 @@ I'm a Software Engineer passionate about building efficient, scalable systems. M
 
 Connect with me:
 
-<a href="https://linktree.ee/aliskeps">Linktree</a>
+<a href="https://linktree.ee/skeps">Linktree</a>
 
 <br/>
 <br/>
