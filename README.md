@@ -15,11 +15,6 @@ Connect with me:
 <a href="https://linktr.ee/skeps">Linktree</a>
 
 <br/>
-<br/>
-
-Languages and Tools:
-
-### Languages and Tools:
 
 ### Languages and Tools:
 
