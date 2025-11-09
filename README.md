@@ -1,11 +1,11 @@
-Hi, I'm Ali (Skeps) 👋
+Hi, I'm Skeps
 
 I'm an aspiring Software Engineering passionate about building efficient, scalable systems.
 Currenly in my 3rd and final year of university at Manchester MET.
 
 📍 Based in Manchester, United Kingdom
 
-🌱 In my free time, I’m learning Software Testing, React and DSA.
+🌱 In my free time, I’m learning Software Testing, React and DSA (the grind is real)
 
 📫 How to reach me: aliskeps@outlook.com
 
