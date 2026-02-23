@@ -1,28 +1,46 @@
-Hi, I'm Skeps
+## Hi, I'm Ali
 
-I'm an aspiring Software Engineering passionate about building efficient, scalable systems.
-Currenly in my 3rd and final year of university at Manchester MET.
+Graduate Software Engineer based in Manchester, United Kingdom.
 
-📍 Based in Manchester, United Kingdom
+I focus on backend systems, API integrations, and building reliable, structured software. My work is centred around Python, RESTful services, and automation logic, with growing interest in secure system design and infrastructure fundamentals.
 
-📫 How to reach me: aliskeps@outlook.com
+I enjoy debugging complex behaviour, validating edge cases, and understanding how systems behave under real-world constraints.
 
-<br/>
+📍 Manchester, United Kingdom  
+📫 aliskepss@gmail.com  
 
-### Languages and Tools:
+---
+
+### Core Focus
+
+- Backend Development (Python, REST APIs)
+- API Integration & Data Validation
+- System Debugging & Root Cause Analysis
+- Secure Backend Design (learning path)
+- Linux & Networking Fundamentals (active study)
+
+---
+
+### Tech Stack
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https.claris.com" target="_blank" rel="noreferrer"> <img src="https://worldvectorlogo.com/logos/claris.svg" alt="claris" width="40" height="40"/> </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.salesforce.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
+
+---
+
+### Current Direction
+
+I am seeking graduate or junior roles in:
+
+- Software Engineering
+- Backend Engineering
+- Cyber Security (engineering-focused roles)
+
+GitHub is where I document projects focused on backend logic, structured data handling, and system reliability.
