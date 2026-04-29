@@ -2,22 +2,23 @@
 
 Graduate Software Engineer based in Manchester, United Kingdom.
 
-I focus on backend systems, API integrations, and building reliable, structured software. My work is centred around Python, RESTful services, and automation logic, with growing interest in secure system design and infrastructure fundamentals.
+I build backend systems, API integrations, and structured software with a focus on reliability, clarity, and real-world usefulness. My main work centres on Python, REST APIs, automation logic, and data handling, with a growing interest in secure system design, infrastructure, and backend engineering fundamentals.
 
-I enjoy debugging complex behaviour, validating edge cases, and understanding how systems behave under real-world constraints.
+I enjoy debugging complex behaviour, thinking through edge cases, and understanding how systems behave under real-world constraints.
 
 📍 Manchester, United Kingdom  
 📫 aliskepss@gmail.com  
 
 ---
 
-### Core Focus
+### What I Focus On
 
-- Backend Development (Python, REST APIs)
-- API Integration & Data Validation
-- System Debugging & Root Cause Analysis
-- Secure Backend Design (learning path)
-- Linux & Networking Fundamentals (active study)
+- Backend Development with Python
+- REST API Design and Integration
+- Data Validation and Structured Processing
+- Debugging and Root Cause Analysis
+- Secure Backend Engineering
+- Linux, Networking, and Infrastructure Fundamentals
 
 ---
 
@@ -37,10 +38,27 @@ I enjoy debugging complex behaviour, validating edge cases, and understanding ho
 
 ### Current Direction
 
-I am seeking graduate or junior roles in:
+I am currently seeking graduate and junior opportunities in:
 
 - Software Engineering
 - Backend Engineering
-- Cyber Security (engineering-focused roles)
+- Security-focused Engineering Roles
 
-GitHub is where I document projects focused on backend logic, structured data handling, and system reliability.
+My GitHub is where I document projects centred on backend logic, API development, structured data handling, and system reliability.
+
+---
+
+### Current Interests
+
+- Building production-style backend projects
+- Writing cleaner, more maintainable code
+- Strengthening database, networking, and security fundamentals
+- Improving testing, debugging, and deployment workflows
+
+---
+
+### Contact
+
+If you are hiring for graduate or junior backend roles, feel free to reach out.
+
+📫 aliskepss@gmail.com
